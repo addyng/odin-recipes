@@ -1,0 +1,42 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: green;
+    background-color: yellow;
+    font-size: 53px;
+}
+
+.recipes {
+    color: red;
+}
+
+a {
+    color: pink;
+}
+
+.recipes a {
+    color: black;
+}
+
+body {
+    background-color: bisque;
+}
+
+h3 {
+    color: blue;
+    font-weight: 1000;
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    width: 1000px;  
+}
+
+p, li {
+    font-weight: 1000;
+    font-size: 50px;
+    color: rgba(100, 253, 102, .8);
+}
